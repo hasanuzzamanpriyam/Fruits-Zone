@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥭 Fruits-Zone (Ammwala)
+#  Fruits-Zone
 ### Enterprise Agro & Organic E-Commerce Platform
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg?style=for-the-badge&logo=node.js)](https://nodejs.org)
