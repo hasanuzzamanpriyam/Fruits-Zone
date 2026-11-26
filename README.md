@@ -20,7 +20,7 @@
 
 ## 📖 Overview
 
-**Fruits-Zone (Ammwala)** is an enterprise-grade web application built to solve the operational and conversion bottlenecks of seasonal organic food businesses in Bangladesh. Specially tailored for Rajshahi/Chapai mangoes, Sundarban raw honey, Dinajpur lychees, and cold-pressed mustard oils, it combines frictionless pre-ordering with powerful administrative controls.
+**Fruits-Zone** is an enterprise-grade web application built to solve the operational and conversion bottlenecks of seasonal organic food businesses in Bangladesh. Specially tailored for Rajshahi/Chapai mangoes, Sundarban raw honey, Dinajpur lychees, and cold-pressed mustard oils, it combines frictionless pre-ordering with powerful administrative controls.
 
 ### Product Categories Supported
 - **🥭 Mangoes** — GI-certified varieties (Himsagar, Gopalbhog, Langra, Amrapali, Fazli)
@@ -719,7 +719,7 @@ npm run lint     # Oxlint code quality
 
 ## 📄 License & Attribution
 
-This project is proprietary and actively maintained for **Fruits-Zone (Ammwala Agro & Organic Foods)**. All rights reserved.
+This project is proprietary and actively maintained for **Fruits-Zone (Agro & Organic Foods)**. All rights reserved.
 
 ---
 
